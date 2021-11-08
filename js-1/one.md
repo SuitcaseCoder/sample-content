@@ -1,1 +1,1 @@
-# sample curriculum ## js-1/one.md last updated on: Mon Nov 08 2021 17:17:01 GMT-0600 (Central Standard Time).
+# sample curriculum ## js-1/one.md last updated on: Mon Nov 08 2021 17:18:47 GMT-0600 (Central Standard Time).
