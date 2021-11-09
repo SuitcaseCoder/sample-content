@@ -1,3 +1,3 @@
-# UPDATED @ 6:05 
+# UPDATED Tuesday @ 12:44
 ## BY: LRR _
-Mon Nov 08 2021 18:05:44 GMT-0600 (Central Standard Time)
+Tue Nov 09 2021 12:43:28 GMT-0600 (Central Standard Time)
